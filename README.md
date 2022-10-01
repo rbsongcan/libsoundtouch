@@ -1,10 +1,8 @@
 How to compile:
-
-./bootstrap
-
-./configure
-make
-make install
+  ./bootstrap
+  ./configure
+  make
+  make install
 
 
 For Ubuntu:
