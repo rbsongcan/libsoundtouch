@@ -8,4 +8,5 @@ For Ubuntu:
 ./configure --enable-integer-samples  
 
 For pre-compiled version  
-'unzip soundtouch_precompiled.zip' from root folder, files will be inflated to required folders.
+'unzip soundtouch_precompiled.zip' from root folder, files will be inflated to required folders.  
+Both libsoundtouch and mod_soundtouch are included in soundtouch_precompiled.zip
