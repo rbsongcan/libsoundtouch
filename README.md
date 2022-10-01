@@ -5,7 +5,10 @@ https://freeswitch.org/stash/projects/SD/repos/libsoundtouch/browse
 Tested with FreeSWITCH Version 1.10.3-dev+git~20211230T135131Z~964eb5acd8~64bit (git 964eb5a 2021-12-30 13:51:31Z 64bit)
   
 For Ubuntu:  
+./bootstrap  
 ./configure --enable-integer-samples  
+make  
+make install  
 
 For pre-compiled version  
 'unzip soundtouch_precompiled.zip' from root folder, files will be inflated to required folders.  
