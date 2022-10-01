@@ -1,4 +1,4 @@
-The purpose of this repo is to personalize the repo and added a pre-compiled version that working good.
+The purpose of this repo is to share libsoundtouch in github and added a pre-compiled version that working good.
 There is no code changed, no additional codes, just a copy for the original source:  
 https://freeswitch.org/stash/projects/SD/repos/libsoundtouch/browse  
 
