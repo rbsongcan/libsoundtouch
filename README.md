@@ -12,3 +12,6 @@ make install
   
 For Ubuntu:  
 ./configure --enable-integer-samples  
+
+For pre-compiled version  
+'unzip soundtouch_precompiled.zip' from root folder, files will be inflated to required folders.
