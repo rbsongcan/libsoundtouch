@@ -1,0 +1,23 @@
+Source: libsoundtouch
+Priority: extra
+Maintainer: William King <william.king@quentustech.com>
+Build-Depends: debhelper (>= 8.0.0), dh-autoreconf
+Standards-Version: 3.9.3
+Section: libs
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/libsoundtouch.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/libsoundtouch.git;a=summary
+
+Package: libsoundtouch-dev
+Section: libdevel
+Architecture: any
+Depends: libsoundtouch1 (= ${binary:Version})
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+Package: libsoundtouch1
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
