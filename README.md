@@ -3,7 +3,6 @@ How to compile:
 ./bootstrap
 
 ./configure
-
 make
 make install
 
