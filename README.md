@@ -10,8 +10,8 @@ For Ubuntu:
 make  
 make install  
 
-For pre-compiled version  
+pre-compiled for Ubuntu
 'unzip soundtouch_precompiled.zip' from root folder, files will be inflated to required folders.  
-Both libsoundtouch and mod_soundtouch are included in soundtouch_precompiled.zip  
+Both libsoundtouch and mod_soundtouch are included in precompiled.zip  
 
 Contact https://rbsongcan.com for support service.
