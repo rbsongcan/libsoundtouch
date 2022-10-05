@@ -11,7 +11,10 @@ make
 make install  
 
 pre-compiled for Ubuntu
-'unzip soundtouch_precompiled.zip' from root folder, files will be inflated to required folders.  
+'unzip pre-compiled.zip' from root folder, files will be inflated to required folders.  
 Both libsoundtouch and mod_soundtouch are included in precompiled.zip  
+
+For Debian:
+The default installation location path is set to /usr/local which will not work on Debian by default since the expected location is /usr/lib/x86_64-linux-gnu/. The file debian/rules must be updated for that but I personally have no chance to make the chances.
 
 Contact https://rbsongcan.com for support service.
